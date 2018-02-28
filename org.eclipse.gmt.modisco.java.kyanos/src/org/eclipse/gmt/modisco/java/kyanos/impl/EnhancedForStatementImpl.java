@@ -3,12 +3,10 @@
 package org.eclipse.gmt.modisco.java.kyanos.impl;
 
 import org.eclipse.emf.ecore.EClass;
-
 import org.eclipse.gmt.modisco.java.EnhancedForStatement;
 import org.eclipse.gmt.modisco.java.Expression;
 import org.eclipse.gmt.modisco.java.SingleVariableDeclaration;
 import org.eclipse.gmt.modisco.java.Statement;
-
 import org.eclipse.gmt.modisco.java.kyanos.JavaPackage;
 
 /**

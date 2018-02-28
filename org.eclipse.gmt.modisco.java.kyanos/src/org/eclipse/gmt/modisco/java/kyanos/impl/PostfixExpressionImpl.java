@@ -3,11 +3,9 @@
 package org.eclipse.gmt.modisco.java.kyanos.impl;
 
 import org.eclipse.emf.ecore.EClass;
-
 import org.eclipse.gmt.modisco.java.Expression;
 import org.eclipse.gmt.modisco.java.PostfixExpression;
 import org.eclipse.gmt.modisco.java.PostfixExpressionKind;
-
 import org.eclipse.gmt.modisco.java.kyanos.JavaPackage;
 
 /**

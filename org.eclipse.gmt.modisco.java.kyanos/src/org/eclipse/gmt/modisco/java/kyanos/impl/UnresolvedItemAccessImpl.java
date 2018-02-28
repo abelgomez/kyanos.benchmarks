@@ -3,11 +3,9 @@
 package org.eclipse.gmt.modisco.java.kyanos.impl;
 
 import org.eclipse.emf.ecore.EClass;
-
 import org.eclipse.gmt.modisco.java.ASTNode;
 import org.eclipse.gmt.modisco.java.UnresolvedItem;
 import org.eclipse.gmt.modisco.java.UnresolvedItemAccess;
-
 import org.eclipse.gmt.modisco.java.kyanos.JavaPackage;
 
 /**

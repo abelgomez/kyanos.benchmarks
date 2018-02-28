@@ -3,10 +3,8 @@
 package org.eclipse.gmt.modisco.java.kyanos.impl;
 
 import org.eclipse.emf.ecore.EClass;
-
 import org.eclipse.gmt.modisco.java.Block;
 import org.eclipse.gmt.modisco.java.Initializer;
-
 import org.eclipse.gmt.modisco.java.kyanos.JavaPackage;
 
 /**
